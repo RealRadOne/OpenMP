@@ -1,4 +1,4 @@
-# OpenMP
+# ParallelComp
 Parallel and distributed computing in progress 
 
 ..
